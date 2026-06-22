@@ -1,0 +1,3 @@
+import SwiftUI
+
+AppCleanerMacApp.main()
