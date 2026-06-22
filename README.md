@@ -36,7 +36,7 @@ Created with ❤️ by **Muaz**.
 ---
 
 ## 📄 License
-Copyright © 2026 Muaz. All Rights Reserved.  
+Copyright © 2026 BrandskitStudio. All Rights Reserved.  
 This project is proprietary. Unauthorized use, reproduction, or distribution is strictly prohibited.
 
 ---
