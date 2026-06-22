@@ -32,7 +32,7 @@ cat > "$APP_BUNDLE/Contents/Info.plist" << 'PLIST'
     <key>CFBundleExecutable</key>
     <string>AppCleanerMac</string>
     <key>CFBundleIdentifier</key>
-    <string>com.muaz.AppCleanerMac.Full</string>
+    <string>com.brandskitstudio.AppCleanerMac.Full</string>
     <key>CFBundleName</key>
     <string>AppCleanerMac</string>
     <key>CFBundleDisplayName</key>

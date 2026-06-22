@@ -31,7 +31,7 @@ This app values your privacy.
 ---
 
 ## 👨‍💻 Author
-Created with ❤️ by **Muaz**.
+Created with ❤️ by **BrandskitStudio**.
 
 ---
 
